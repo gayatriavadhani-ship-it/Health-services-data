@@ -1,0 +1,1 @@
+Analyzed health services data by using cards for Average response time, total amount etc and graphs to show number of patients for each doctor, map to show region wise vehicle assigns, region wise emergency cases etc.
